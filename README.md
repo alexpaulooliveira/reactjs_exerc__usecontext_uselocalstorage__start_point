@@ -23,6 +23,6 @@ auth = 'off' <br/>
 
 ### 3) Após o primeiro clique no botão, os valores devem ser alterados, conforme imagem abaixo:
 
-![Drag Racing](./img/../src/img/useLocalStorageStep1.png)
+![Drag Racing](./img/../src/img/useLocalStorageStep2.png)
 
 ### 4) A aplicação deve assegurar que os valores do contexto sejam persistidos, de maneira que um refresh não recarregue os valores iniciais.
